@@ -45,6 +45,6 @@ License: MIT
 n/a
 
 ## Questions
-[Github](https://github.com/joyfullyx)
+[Github](https://github.com/Gushihiro)
 
-[E-mail](mailto:joyfullyx)
+[E-mail](mailto:robinsonhiroto@gmail.com)
